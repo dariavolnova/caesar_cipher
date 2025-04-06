@@ -6,7 +6,7 @@
 
 ## 2. Запуск программы
 Запуск с аргументами через CLI 
-- python src\caesar_cipher.py decrypt "Khoor, Zruog!" 3
+- python src/caesar_cipher.py decrypt "Khoor, Zruog!" 3
 
 ## 3. Запуск тестов
 Для запуска всех юнит-тестов:
