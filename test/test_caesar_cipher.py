@@ -1,5 +1,5 @@
-import unittest
 from src.caesar_cipher import caesar_encrypt, caesar_decrypt
+import unittest
 
 class TestCaesarCipher(unittest.TestCase):
     def test_encrypt_basic(self):
